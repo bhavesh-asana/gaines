@@ -1,0 +1,8 @@
+# Ignore Python Virtual Environment
+.venv
+
+# Ignore IDE Cache
+*/__pycache__
+
+# Ignore Project secrets
+gaines/settings.py
