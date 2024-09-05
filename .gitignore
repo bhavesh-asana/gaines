@@ -2,7 +2,7 @@
 .venv
 
 # Ignore IDE Cache
-*/__pycache__
+**/__pycache__
 
 # Ignore Project secrets
 gaines/settings.py
