@@ -15,6 +15,6 @@ Gaines is built on the GPT (Generative Pre-trained Transformer) architecture, ut
    `pip install -r requirements.txt`
 3. Please send a request (mailto:asanbhavesh@gmail.com) to share the 'App Secrets', a necessary file to run the application.
 4. Change the directory to the root folder, where you find `manage.py` file.
-5. To run the application execute the following command,\n
-   `python manage.py runserver\n`
+5. To run the application execute the following command, 
+   `python manage.py runserver`
    The development server should start at [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
