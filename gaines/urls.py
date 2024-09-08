@@ -18,5 +18,7 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('textflow/', include("textflow.urls"))
+    path('textflow/', include("textflow.urls")),
+    path('wrangler/', include("wrangler.urls")),
+    path('cerbix', include("cerbix.urls"))
 ]
